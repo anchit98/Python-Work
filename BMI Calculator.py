@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # BMI Calculator
+# BMI Calculator
 
 name = input("Enter your name: ")
 
